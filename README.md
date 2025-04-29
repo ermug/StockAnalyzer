@@ -49,7 +49,7 @@ stock_analysis/
 
 1. Clone the Repository
    ```bash
-   git clone (insert repo)
+   git clone https://github.com/ermug/StockAnalyzer
    cd stock_analysis
    ```
 
