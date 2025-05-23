@@ -6,10 +6,10 @@ A powerful desktop application built with Python and PyQt5 for performing techni
 ## Features
 
 - Real-Time Stock Analysis with support for MA, RSI, MACD, and Bollinger Bands
+- Candlestick & Line Charts using Matplotlib and mplfinance
 - Investment Recommendations based on technical signals and risk tolerance
 - Interactive UI with multiple tabs for charts, indicators, and simulation
-- Strategy Backtesting (Buy & Hold, MA Crossover, RSI Strategy)
-- Candlestick & Line Charts using Matplotlib and mplfinance
+- Basic Strategy Backtesting (Buy & Hold, MA Crossover, RSI Strategy)
 - Custom Date Ranges and simulation parameters
 - Risk Profile Settings (Low, Moderate, High)
 - Historical Ticker Management
